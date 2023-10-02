@@ -19,9 +19,6 @@
 </div>
 
 ###
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&redirect=true)
   
 
 
