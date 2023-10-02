@@ -19,7 +19,7 @@
 </div>
 ###
 <div
-src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&cover_image=true&theme=default&show_offline=true&background_color=7300a8&interchange=false&bar_color=1fe411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&redirect=true)"
+spotify src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&cover_image=true&theme=default&show_offline=true&background_color=7300a8&interchange=false&bar_color=1fe411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&redirect=true)"
 /div>
 ###
 
