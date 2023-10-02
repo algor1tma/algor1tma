@@ -16,11 +16,13 @@
 
 <div align="center">
   <img height="335" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpkeXBiYXRkcWo2eTVtc3BrYjVxNzgyZWh4ZWdieTZwNnYzcHV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3Jxu7a7pd72w/giphy.gif"  />
-
+</div>
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&cover_image=true&theme=default&show_offline=true&background_color=7300a8&interchange=false&bar_color=1fe411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&redirect=true)
-</div>
+<div align="left">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&cover_image=true&theme=default&show_offline=true&background_color=7300a8&interchange=false&bar_color=1fe411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21i6746h5oxb4h25lkqq6ohqa&redirect=true)>
+  
+
 
 ###
 
