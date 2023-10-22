@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img width="400" height="500" src="https://github.com/Gagamaru55/Gagamaru55/blob/main/febrigabutedit.gif"  />
+  <img height="500" src="https://media.giphy.com/media/3oriNVc5SDHOsWcCM8/giphy.gif"  />
 </div>
 
 ###
