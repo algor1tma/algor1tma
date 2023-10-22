@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning kuran tahu<br>🎯 Goals: buy a playstation five and has five wives 😎<br>🎲 Fun fact: I like badminton, basketball and football my favorit team BARCELONA 🔴🔵</p>
+<p align="left"><br>📚 I'm currently learning nothing<br>🎯 Goals: buy a playstation five and has five wives 😎<br>🎲 Fun fact: I like badminton, basketball and football my favorit team BARCELONA 🔴🔵</p>
 
 ###
 
