@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gagamaru55/Gagamaru55/blob/main/ajarin%20dong.png?raw=true)
+![alt text](https://github.com/algor1tma/algor1tma/blob/main/ajarin%20dong.png?raw=true)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
