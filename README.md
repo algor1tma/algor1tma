@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Algoritma Dwi Febri Fathiyakan and I'm a student from polytechnic jember</p>
+<p align="left">My name is Algoritma Dwi Febri Fathiyakan , I'm a student from polytechnic jember</p>
 
 ###
 
