@@ -1,4 +1,4 @@
-![alt text](https://github.com/algor1tma/algor1tma/blob/main/Algoritma%20febri%20(2).png)
+![alt text](https://github.com/algor1tma/algor1tma/blob/main/Algoritma%20febri23.png)
 <h1 align="left">Halo 👋 selamat datang</h1>
 
 ###
