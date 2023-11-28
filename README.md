@@ -1,4 +1,4 @@
- <img height="300" wide="899" src="https://github.com/algor1tma/algor1tma/blob/main/bnnergit.gif"  />
+ <img height="250" wide="899" src="https://github.com/algor1tma/algor1tma/blob/main/bnnergit.gif"  />
 <h1 align="left">Halo 👋 selamat datang</h1>
 
 ###
